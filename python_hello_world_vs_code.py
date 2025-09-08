@@ -1,0 +1,1 @@
+print("Hello this is the same code i had tried with vscode py file hello world this is my second program in AI and PYTHON programming")
