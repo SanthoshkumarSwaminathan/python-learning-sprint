@@ -128,7 +128,7 @@ for i in marks:
 score=(max(marks,key=marks.get))
 print(f"highest scoring student is {score} mark is {marks[score]}")
 
-total=max(marks.values())
+total=sum(marks.values())
 average=total/len(marks)
 print("Average marks is :",average)
 
